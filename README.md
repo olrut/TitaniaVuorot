@@ -237,3 +237,8 @@ Check the file [release-notes.md](./release-notes.md).
 ## License
 
 The Full Stack FastAPI Template is licensed under the terms of the MIT license.
+=======
+
+
+# TitaniaVuorot
+A simple web app for exporting Titania work shifts to Google Calendar
